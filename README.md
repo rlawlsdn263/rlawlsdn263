@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 <h3>✍ My Blog</h3>
 
-- https://brunch.co.kr/@rlawlsdn263
-- https://blog.naver.com/rlawlsdn263
-
 <h3>📚 Notion</h3>
 
 - [🍯알고리즘 꿀팁](https://jinuong.notion.site/6ff833d74d8748c89ed3f490aaa1b949)
