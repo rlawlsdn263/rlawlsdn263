@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 
 <h3>📚 Notion</h3>
 
-- [🍯알고리즘 꿀팁](https://jinuong.notion.site/6ff833d74d8748c89ed3f490aaa1b949)
-
-
 <h3>💻 Tech Stack</h3>
 <span>
   <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
