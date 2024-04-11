@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://user-images.githubusercontent.com/79128016/234777739-f3c0c8d8-89b7-49f4-96fd-b11b65c9386d.png)
 
 
-<h2>글쓰기를 좋아하는 개발자, 김진우입니다</h2>
+<h2>글쓰기를 좋아하는 개발자, 김진우입니다!</h2>
 
 <h3>✍ My Blog</h3>
 
