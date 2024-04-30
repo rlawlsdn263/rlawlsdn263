@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <h3>📚 Notion</h3>
 
+- [👾트러블슈팅](https://jinuong.notion.site/6dc19689cfcf44209dff52fe0103fe4b?pvs=4)
+
 <h3>💻 Tech Stack</h3>
 <span>
   <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
